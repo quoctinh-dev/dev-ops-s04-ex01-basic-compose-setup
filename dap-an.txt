@@ -1,0 +1,2 @@
+Do mỗi container khi chạy sẽ tạo ra 1 network namespace khác nhau hoàn toàn độc lập với máy tính cá nhân và các container khác 
+=> nếu gọi localhost nó sẽ không nhận được
